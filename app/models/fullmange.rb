@@ -1,0 +1,2 @@
+class Fullmange < ApplicationRecord
+end

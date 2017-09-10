@@ -1,0 +1,2 @@
+class Designlike < ApplicationRecord
+end
